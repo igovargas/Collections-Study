@@ -1,6 +1,7 @@
 public class NameList {
 
-    public static void PrincipalList() {
+    public static void main(String args[]) {
+        NameInsert.simpleNameListInput();
         
     }
 }
